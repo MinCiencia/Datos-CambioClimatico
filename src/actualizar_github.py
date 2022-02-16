@@ -20,8 +20,8 @@ datasets = ["direccion_viento_ceaza"]
 
 
 for ds in datasets:
-    if(not os.path.isdir('./output/'  + ds) ) :
-        os.mkdir('./output/'  + ds)
+    if(not os.path.isdir('../output/'  + ds) ) :
+        os.mkdir('../output/'  + ds)
     # Leemos los archivos directamente desde el servidor del Observatorio de Cambio Climático
     url = "http://datos.occ.minciencia.gob.cl:8080/erddap/files/" + ds + "/" + ds +".csv"
     print("Reading file:", ds)
@@ -38,8 +38,8 @@ for ds in datasets:
         temp = df.loc[(df['time'] > str(i) + '-1-1') & (df['time'] <=  str(i + 1) + '-1-1'), ]
         
         # Si no existen las carpetas de los años, se crean
-        if(not os.path.isdir('./output/' + ds + "/" + str(i)) ):
-            os.mkdir('./output/' + ds + "/" + str(i)  ) 
+        if(not os.path.isdir('../output/' + ds + "/" + str(i)) ):
+            os.mkdir('../output/' + ds + "/" + str(i)  ) 
         
         # Se guarda el archivo temporal en la carpeta correspondiente
-        temp.to_csv('./output/' + ds + "/" + str(i) + "/" + str(i) + "_" + ds  + ".csv", index = False )
+        temp.to_csv('../output/' + ds + "/" + str(i) + "/" + str(i) + "_" + ds  + ".csv", index = False )
