@@ -37,9 +37,12 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 
 # Instituciones
 | Institución  | Data products |
-| ------------- | ------------- |
-| <a href="https://www.inach.cl/inach/" target="_blank"><img src="doc/INACH.png" alt="INACH" style="max-width: 250px;"></a>  |  |
-| <a href="https://climatologia.meteochile.gob.cl/" target="_blank"><img src="doc/DMC.png" alt="Dirección Meteorologica" style="max-width: 100px;"></a>|  |
-|<a href="https://sinca.mma.gob.cl/" target="_blank"><img src="doc/MMA.png" alt="Ministerio de Medio Ambiente" style="max-width: 100px;"></a> | |
-| <a href="http://www.ceaza.cl/" target="_blank"><img src="doc/CEAZA_banner.png" alt="CEAZA" style="max-width: 250px;"></a> | |
-| <a href="http://www.ifop.cl/" target="_blank"><img src="doc/ifop.png" alt="IFOP" style="max-width: 150px;"></a> | |
+| :-------------: | ------------- |
+| <a href="https://www.inach.cl/inach/" target="_blank"><img src="doc/INACH.png" alt="INACH" width = "200"></a>  |    |
+| <a href="https://climatologia.meteochile.gob.cl/" target="_blank"><img src="doc/DMC.png" alt="Dirección Meteorologica" width = "100"></a>| [agua24_dmc](output/agua24_dmc) - [agua6_dmc](output/agua6_dmc) - [humedad_dmc](output/humedad_dmc) - [presionqfe_dmc](output/presionqfe_dmc) - [presionqff_dmc](output/presionqff_dmc) - [rocio_dmc](output/rocio_dmc) - [temperatura_dmc](output/temperatura_dmc) - [tmaxima_dmc](output/tmaxima_dmc) - [tminima_dmc](output/tminima_dmc) - [viento_dmc](output/viento_dmc) |
+| <a href="https://sinca.mma.gob.cl/" target="_blank"><img src="doc/MMA.png" alt="Ministerio de Medio Ambiente" width = "100"></a> | [humedad_sinca](output/humedad_sinca) - [mpm10_sinca](output/mpm10_sinca) - [mpm25_sinca](output/mpm25_sinca) - [no2_sinca](output/no2_sinca) - [o3_sinca ](output/o3_sinca) - [precipitaciones_sinca](output/precipitaciones_sinca) - [precipitaciones_sinca](output/precipitaciones_sinca) - [so2_sinca](output/so2_sinca)   |
+| <a href="http://www.ceaza.cl/" target="_blank"><img src="doc/CEAZA_banner.png" alt="CEAZA" width = "250"></a> | [direccion_viento_ceaza](output/direccion_viento_ceaza) - [evotranspiracion_ceaza](output/evotranspiracion_ceaza) - [precipitacion_ceaza](output/precipitacion_ceaza) - [pto_rocio_ceaza](output/pto_rocio_ceaza) - [radiacion_ceaza](output/radiacion_ceaza) - [temperatura_aire_ceaza](output/temperatura_aire_ceaza) - [temperatura_suelo_ceaza](output/temperatura_suelo_ceaza) - [velocidad_viento_ceaza](output/velocidad_viento_ceaza) |
+| <a href="http://www.ifop.cl/" target="_blank"><img src="doc/ifop.png" alt="IFOP" width = "150"></a> | |
+| <a href="http://www.ieb.cl/" target="_blank"><img src="doc/ieb.png" alt="IEB" width = "150"></a> | [temperatura_aire_ceaza](output/temperatura_aire_ceaza) - [temperatura_suelo_ceaza](output/temperatura_suelo_ceaza) |
+| <a href="https://dga.mop.gob.cl/" target="_blank"><img src="doc/DGA.jpeg" alt="DGA" width = "100"></a> | |
+| <a href="https://portal.sma.gob.cl/" target="_blank"><img src="doc/SMA.png" alt="SMA" width = "150"></a> | |
