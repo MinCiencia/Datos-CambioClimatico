@@ -23,7 +23,7 @@ jobs:
     - name: Check out our repo
       uses: actions/checkout@v2
       with:
-        path: Datos-COVID19
+        path: Datos-CambioClimatico
 
       # Sets up python
     - name: Set up Python 3.8
