@@ -35,3 +35,11 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 - [viento_dmc - Velocidad del viento - Dirección Metereológica de Chile](output/viento_dmc) 
 
 
+# Instituciones
+| Institución  | Data products |
+| ------------- | ------------- |
+| <a href="https://www.inach.cl/inach/" target="_blank"><img src="doc/INACH.png" alt="INACH" style="max-width: 250px;"></a>  |  |
+| <a href="https://climatologia.meteochile.gob.cl/" target="_blank"><img src="doc/DMC.png" alt="Dirección Meteorologica" style="max-width: 100px;"></a>|  |
+|<a href="https://sinca.mma.gob.cl/" target="_blank"><img src="doc/MMA.png" alt="Ministerio de Medio Ambiente" style="max-width: 100px;"></a> | |
+| <a href="http://www.ceaza.cl/" target="_blank"><img src="doc/CEAZA_banner.png" alt="CEAZA" style="max-width: 250px;"></a> | |
+| <a href="http://www.ifop.cl/" target="_blank"><img src="doc/ifop.png" alt="IFOP" style="max-width: 150px;"></a> | |
