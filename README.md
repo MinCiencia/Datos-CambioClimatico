@@ -36,6 +36,7 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 
 
 # Instituciones
+El Observatorio de Cambio Climático cuenta con la participación y colaboración de las siguientes instituciones:
 | Institución  | Data products |
 | :-------------: | ------------- |
 | <a href="https://www.inach.cl/inach/" target="_blank"><img src="doc/INACH.png" alt="INACH" width = "200"></a>  |    |
