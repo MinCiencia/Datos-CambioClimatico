@@ -38,6 +38,9 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 - [velocidad_viento_ceaza - Velocidad del viento - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/velocidad_viento_ceaza) 
 - [viento_dmc - Velocidad del viento - Dirección Metereológica de Chile](output/viento_dmc) 
 
+***Nota**: Los conjuntos se encuentran divididos por año con tal de tener un tamaño manor al máximo permitido por el repositorio. Para descargar los archivos agregados, se puede consultar directamente a [https://datos.occ.minciencia.gob.cl/erddap/files/**<ID_dataset>**/**<ID_dataset>**.csv](https://datos.occ.minciencia.gob.cl/erddap/files/<ID_dataset>/<ID_dataset>.csv).*
+
+*Por ejemplo: [https://datos.occ.minciencia.gob.cl/erddap/files/**agua24_dmc**/**agua24_dmc.csv**](https://datos.occ.minciencia.gob.cl/erddap/files/agua24_dmc/agua24_dmc.csv)*
 
 # Instituciones
 El Observatorio de Cambio Climático cuenta con la participación y colaboración de las siguientes instituciones:
