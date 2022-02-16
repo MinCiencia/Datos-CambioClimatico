@@ -9,7 +9,10 @@ import pandas as pd
 from datetime import datetime
 import os.path
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
+BASE_URL = os.getenv('BASE_URL')
 
 ###################################
 #            CEAZA                #
@@ -25,7 +28,7 @@ for ds in datasets:
     if(not os.path.isdir('../output/'  + ds) ) :
         os.mkdir('../output/'  + ds)
     # Leemos los archivos directamente desde el servidor del Observatorio de Cambio Climático
-    url = "http://datos.occ.minciencia.gob.cl:8080/erddap/files/" + ds + "/" + ds +".csv"
+    url = BASE_URL + ds + "/" + ds +".csv"
     print("Reading file:", ds)
     print("URL:", url)
     df = pd.read_csv(url,  dtype={'latitud': float,'longitud': float, 'statusCode': float, 'nombre': object }, parse_dates=["time"])
