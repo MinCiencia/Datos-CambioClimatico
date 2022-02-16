@@ -16,7 +16,9 @@ import os
 ###################################
 
 
-datasets = ["direccion_viento_ceaza"]
+datasets = ["direccion_viento_ceaza", "presion_ceaza", "velocidad_viento_ceaza",
+            "temperatura_suelo_ceaza", "temperatura_aire_ceaza", "radiacion_ceaza", 
+            "precipitacion_ceaza", "pto_rocio_ceaza","humedad_relativa_ceaza", "evotranspiracion_ceaza"]
 
 
 for ds in datasets:
@@ -43,3 +45,35 @@ for ds in datasets:
         
         # Se guarda el archivo temporal en la carpeta correspondiente
         temp.to_csv('../output/' + ds + "/" + str(i) + "/" + str(i) + "_" + ds  + ".csv", index = False )
+        
+        
+###################################
+#            DMC                  #
+###################################
+
+
+datasets = ["agua24_dmc", "agua6_dmc", "humedad_dmc",
+            "presionqfe_dmc", "presionqff_dmc", "tminima_dmc", 
+            "tmaxima_dmc", "rocio_dmc","temperatura_dmc", "viento_dmc"]      
+    
+    
+    
+    
+###################################
+#            SINCA                #
+###################################
+
+
+datasets = ["agua24_dmc", "agua6_dmc", "humedad_dmc",
+            "presionqfe_dmc", "presionqff_dmc", "tminima_dmc", 
+            "tmaxima_dmc", "rocio_dmc","temperatura_dmc", "viento_dmc"]           
+    
+    
+    
+    
+    
+        
+        
+        
+        
+        
