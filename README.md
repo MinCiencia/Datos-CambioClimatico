@@ -16,7 +16,7 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 - [mpm10_sinca - MPM10 en el aire - Servicio Nacional de Calidad del Aire](output/mpm10_sinca) 
 - [mpm25_sinca - MPM20 en el aire - Servicio Nacional de Calidad del Aire](output/mpm25_sinca) 
 - [no2_sinca - NO2 en el aire - Servicio Nacional de Calidad del Aire](output/no2_sinca) 
-- [o3_sinca - NO2 en el aire - Servicio Nacional de Calidad del Aire](output/o3_sinca) 
+- [o3_sinca - O3 en el aire - Servicio Nacional de Calidad del Aire](output/o3_sinca) 
 - [precipitacion_ceaza - Precipitaciones - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/precipitacion_ceaza) 
 - [precipitaciones_sinca - Precipitaciones - Servicio Nacional de Calidad del Aire](output/precipitaciones_sinca) 
 - [precipitaciones_sinca - Presión - Servicio Nacional de Calidad del Aire](output/precipitaciones_sinca) 
