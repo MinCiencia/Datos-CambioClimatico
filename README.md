@@ -26,3 +26,12 @@ Ver http://occ.minciencia.gob.cl/ para más información.
 - [radiacion_ceaza - Radiación - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/radiacion_ceaza) 
 - [rocio_dmc - Temperatura de Rocío - Dirección Metereológica de Chile](output/rocio_dmc) 
 - [so2_sinca - SO2 en el aire - Servicio Nacional de Calidad del Aire](output/so2_sinca) 
+- [temperatura_aire_ceaza - Temperatura del aire - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/temperatura_aire_ceaza) 
+- [temperatura_dmc - Temperatura - Dirección Metereológica de Chile](output/temperatura_dmc) 
+- [temperatura_suelo_ceaza - Temperatura de suelo - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/temperatura_suelo_ceaza) 
+- [tmaxima_dmc - Temperaturas máximas - Dirección Metereológica de Chile](output/tmaxima_dmc) 
+- [tminima_dmc - Temperaturas mínimas - Dirección Metereológica de Chile](output/tminima_dmc) 
+- [velocidad_viento_ceaza - Velocidad del viento - Centro de Estudios Avanzados en Zonas Áridas (CEAZA)](output/velocidad_viento_ceaza) 
+- [viento_dmc - Velocidad del viento - Dirección Metereológica de Chile](output/viento_dmc) 
+
+
