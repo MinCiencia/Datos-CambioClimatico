@@ -1,7 +1,7 @@
 # Datos Cambio Climatico
 <p align="center">
     <a href="http://occ.minciencia.gob.cl/" target="_blank">
-        <img src="doc/OCC_color.png" alt="OCC" width = "500">
+        <img src="doc/OCC_color.png" alt="OCC" width = "400">
     </a>
 </p>
 El objetivo del Observatorio de Cambio Climático, liderado por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación es un proyecto que tiene como objetivo disponer de información de interés climatologico recopilada por instituciones a lo largo del pais con tal de habilitar información que contribuya a la toma de decisiones de las autoridades y la ciudadanía
