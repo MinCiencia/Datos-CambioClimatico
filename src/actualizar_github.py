@@ -25,6 +25,9 @@ datasets = ["direccion_viento_ceaza", "presion_ceaza", "velocidad_viento_ceaza",
 
 
 for ds in datasets:
+    print("Inicio")
+    inicio = dt.datetime.now()
+    print(dt.datetime.now())
     if(not os.path.isdir('../output/'  + ds) ) :
         os.mkdir('../output/'  + ds)
     # Leemos los archivos directamente desde el servidor del Observatorio de Cambio Climático
@@ -59,6 +62,9 @@ datasets = ["agua24_dmc", "agua6_dmc", "humedad_dmc",
             "tmaxima_dmc", "rocio_dmc","temperatura_dmc", "viento_dmc"] 
     
 for ds in datasets:
+    print("Inicio")
+    inicio = dt.datetime.now()
+    print(dt.datetime.now())
     if(not os.path.isdir('../output/'  + ds) ) :
         os.mkdir('../output/'  + ds)
     # Leemos los archivos directamente desde el servidor del Observatorio de Cambio Climático
@@ -96,6 +102,9 @@ datasets = ["co_sinca", "no2_sinca", "o3_sinca",
 
 
 for ds in datasets:
+    print("Inicio")
+    inicio = dt.datetime.now()
+    print(dt.datetime.now())
     if(not os.path.isdir('../output/'  + ds) ) :
         os.mkdir('../output/'  + ds)
     # Leemos los archivos directamente desde el servidor del Observatorio de Cambio Climático
@@ -119,3 +128,10 @@ for ds in datasets:
         
         # Se guarda el archivo temporal en la carpeta correspondiente
         temp.to_csv('../output/' + ds + "/" + str(i) + "/" + str(i) + "_" + ds  + ".csv", index = False ) 
+
+
+print("Fin")
+fin = dt.datetime.now()
+print(dt.datetime.now())
+print("--------------------------------------------")
+
