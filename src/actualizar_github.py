@@ -35,7 +35,7 @@ for ds in datasets:
     url = BASE_URL + ds + "/" + ds +".csv"
     print("Reading file:", ds)
     print("URL:", url)
-    df = pd.read_csv(url,  dtype={'latitud': float,'longitud': float, 'statusCode': float, 'nombre': object }, parse_dates=["time"])
+    df = pd.read_csv(url,  dtype={'latitud': float,'longitud': float, 'statusCode': float, 'nombre': object, 's_cod': object }, parse_dates=["time"])
     
     # Obtenemos los valores temporales para genera los sub conjuntos anuales, con tal de dividir el dataset en pedazos ('chunks') más pequeños
     # y así poder subir al repositorio (debido a capacidad máxima de 100Mb por repo)
