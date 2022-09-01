@@ -1793,7 +1793,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 2015-03-25 06:00:00,-20.54917,-70.18111,0.0,1.0,200006.0,Diego Aracena Iquique Ap.
 2015-03-25 12:00:00,-20.54917,-70.18111,0.0,0.0,200006.0,Diego Aracena Iquique Ap.
 2015-03-25 18:00:00,-20.54917,-70.18111,0.0,0.0,200006.0,Diego Aracena Iquique Ap.
-2015-03-26 00:00:00,-20.54917,-70.18111,0.0,0.0,200006.0,Diego Aracena Iquique Ap.
+2015-03-26 00:00:00,-20.54917,-70.18111,0.0,1.0,200006.0,Diego Aracena Iquique Ap.
 2015-03-26 06:00:00,-20.54917,-70.18111,0.3,0.0,200006.0,Diego Aracena Iquique Ap.
 2015-03-26 12:00:00,-20.54917,-70.18111,0.0,0.0,200006.0,Diego Aracena Iquique Ap.
 2015-03-26 18:00:00,-20.54917,-70.18111,0.0,0.0,200006.0,Diego Aracena Iquique Ap.
@@ -6975,7 +6975,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 2015-01-09 18:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
 2015-01-10 00:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
 2015-01-10 06:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
-2015-01-10 12:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
+2015-01-10 12:00:00,-29.91444,-71.20667,0.0,1.0,290004.0,"La Florida, La Serena Ad."
 2015-01-10 18:00:00,-29.91444,-71.20667,0.0,1.0,290004.0,"La Florida, La Serena Ad."
 2015-01-11 00:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
 2015-01-11 06:00:00,-29.91444,-71.20667,0.0,0.0,290004.0,"La Florida, La Serena Ad."
