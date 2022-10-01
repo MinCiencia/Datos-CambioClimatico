@@ -4460,7 +4460,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-01-21 03:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-01-21 09:00:00,-27.15889,-109.4325,0.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-01-21 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-01-21 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-01-21 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-01-22 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-01-22 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-01-22 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -4512,7 +4512,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-02-03 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-02-03 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-02-03 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-02-03 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-02-03 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-02-04 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-02-04 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-02-04 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -30878,8 +30878,8 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-03-03 00:00:00,-45.59083,-72.10222,0.2,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
 1983-03-03 06:00:00,-45.59083,-72.10222,0.0,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
 1983-03-03 12:00:00,-45.59083,-72.10222,0.2,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
-1983-03-03 18:00:00,-45.59083,-72.10222,0.0,1.0,450004.0,"Teniente Vidal, Coyhaique Ad."
-1983-03-04 00:00:00,-45.59083,-72.10222,0.0,1.0,450004.0,"Teniente Vidal, Coyhaique Ad."
+1983-03-03 18:00:00,-45.59083,-72.10222,0.2,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
+1983-03-04 00:00:00,-45.59083,-72.10222,0.1,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
 1983-03-04 06:00:00,-45.59083,-72.10222,0.0,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
 1983-03-04 12:00:00,-45.59083,-72.10222,26.1,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
 1983-03-04 18:00:00,-45.59083,-72.10222,5.0,0.0,450004.0,"Teniente Vidal, Coyhaique Ad."
