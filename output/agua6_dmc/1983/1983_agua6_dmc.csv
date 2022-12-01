@@ -4907,7 +4907,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-05-12 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-05-13 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-05-13 09:00:00,-27.15889,-109.4325,0.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-05-13 15:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-05-13 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-05-13 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-05-14 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-05-14 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -4991,7 +4991,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-06-02 21:00:00,-27.15889,-109.4325,3.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-06-03 03:00:00,-27.15889,-109.4325,0.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-06-03 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-06-03 15:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-06-03 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-06-03 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-06-04 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-06-04 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5109,7 +5109,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-07-02 09:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-07-02 15:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-07-02 21:00:00,-27.15889,-109.4325,2.8,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-07-03 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-07-03 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-07-03 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-07-03 15:00:00,-27.15889,-109.4325,0.4,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-07-03 21:00:00,-27.15889,-109.4325,1.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5233,20 +5233,20 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-08-02 09:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-02 15:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-02 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-08-03 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-08-03 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-03 09:00:00,-27.15889,-109.4325,2.6,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-03 15:00:00,-27.15889,-109.4325,0.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-03 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-08-04 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-08-04 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-04 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-04 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-04 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-05 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-05 09:00:00,-27.15889,-109.4325,0.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-08-05 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-08-05 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-05 21:00:00,-27.15889,-109.4325,0.4,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-06 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-08-06 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-08-06 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-06 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-06 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-08-07 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5364,7 +5364,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-09-04 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-09-04 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-09-04 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-09-04 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-09-04 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-09-05 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-09-05 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-09-05 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5532,7 +5532,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-10-16 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-10-16 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-10-16 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-10-16 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-10-16 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-10-17 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-10-17 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-10-17 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5613,7 +5613,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-11-05 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-11-05 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-11-05 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1983-11-06 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1983-11-06 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-11-06 09:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-11-06 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1983-11-06 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -28142,7 +28142,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1983-04-18 00:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1983-04-18 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1983-04-18 12:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
-1983-04-18 18:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
+1983-04-18 18:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
 1983-04-19 00:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
 1983-04-19 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1983-04-19 12:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.

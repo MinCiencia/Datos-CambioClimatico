@@ -4420,7 +4420,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-01-10 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-01-11 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-01-11 09:00:00,-27.15889,-109.4325,0.4,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-01-11 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-01-11 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-01-11 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-01-12 03:00:00,-27.15889,-109.4325,1.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-01-12 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -4742,7 +4742,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-04-01 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-04-01 15:00:00,-27.15889,-109.4325,2.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-04-01 21:00:00,-27.15889,-109.4325,0.4,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-04-02 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-04-02 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-04-02 09:00:00,-27.15889,-109.4325,1.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-04-02 15:00:00,-27.15889,-109.4325,4.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-04-02 21:00:00,-27.15889,-109.4325,1.4,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -4876,7 +4876,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-05-04 21:00:00,-27.15889,-109.4325,0.7,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-05-05 03:00:00,-27.15889,-109.4325,1.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-05-05 09:00:00,-27.15889,-109.4325,0.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-05-05 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-05-05 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-05-05 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-05-06 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-05-06 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5097,7 +5097,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-06-29 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-06-29 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-06-29 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-06-29 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-06-29 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-06-30 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-06-30 09:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-06-30 15:00:00,-27.15889,-109.4325,0.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5302,7 +5302,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-08-19 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-08-19 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-08-19 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-08-20 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-08-20 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-08-20 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-08-20 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-08-20 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5709,7 +5709,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-11-29 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-11-29 09:00:00,-27.15889,-109.4325,0.3,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-11-29 15:00:00,-27.15889,-109.4325,1.6,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-11-29 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-11-29 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-11-30 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-11-30 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-11-30 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5757,7 +5757,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-12-11 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-11 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-11 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-12-11 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-12-11 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-12 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-12 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-12 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5768,7 +5768,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-12-13 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-14 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-14 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1986-12-14 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1986-12-14 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-14 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-15 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1986-12-15 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -27975,7 +27975,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-04-11 18:00:00,-43.18889,-71.85222,21.4,0.0,430002.0,Futaleufú Ad.
 1986-04-12 00:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-04-12 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
-1986-04-12 12:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
+1986-04-12 12:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-04-12 18:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-04-13 00:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-04-13 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
@@ -28863,7 +28863,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-11-19 18:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
 1986-11-20 00:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-11-20 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
-1986-11-20 12:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
+1986-11-20 12:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-11-20 18:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-11-21 00:00:00,-43.18889,-71.85222,0.6,0.0,430002.0,Futaleufú Ad.
 1986-11-21 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
@@ -28923,7 +28923,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1986-12-04 18:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
 1986-12-05 00:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
 1986-12-05 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
-1986-12-05 12:00:00,-43.18889,-71.85222,0.0,1.0,430002.0,Futaleufú Ad.
+1986-12-05 12:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-12-05 18:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-12-06 00:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.
 1986-12-06 06:00:00,-43.18889,-71.85222,0.0,0.0,430002.0,Futaleufú Ad.

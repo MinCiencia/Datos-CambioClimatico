@@ -5068,7 +5068,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1989-06-23 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-06-23 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-06-23 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
-1989-06-24 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1989-06-24 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-06-24 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-06-24 15:00:00,-27.15889,-109.4325,1.7,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-06-24 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5100,7 +5100,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1989-07-01 09:00:00,-27.15889,-109.4325,1.6,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-07-01 15:00:00,-27.15889,-109.4325,0.1,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-07-01 21:00:00,-27.15889,-109.4325,2.6,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1989-07-02 03:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1989-07-02 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-07-02 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-07-02 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-07-02 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
@@ -5334,7 +5334,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 1989-08-28 21:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-08-29 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-08-29 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-1989-08-29 15:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
+1989-08-29 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-08-29 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-08-30 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 1989-08-30 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
