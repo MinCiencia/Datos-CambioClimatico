@@ -1120,6 +1120,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 2015-10-07 18:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
 2015-10-08 00:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
 2015-10-08 06:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
+2015-10-08 12:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
 2015-10-08 18:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
 2015-10-09 00:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
 2015-10-09 06:00:00,-18.35555,-70.34028,0.0,0.0,180005.0,"Chacalluta, Arica Ap."
@@ -4436,7 +4437,7 @@ time,latitud,longitud,RRR6_Valor,Traza_Valor,CodigoNacional,nombreEstacion
 2015-01-15 15:00:00,-27.15889,-109.4325,0.2,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 2015-01-15 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 2015-01-16 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
-2015-01-16 09:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
+2015-01-16 09:00:00,-27.15889,-109.4325,0.0,1.0,270001.0,Mataveri  Isla de Pascua Ap.
 2015-01-16 15:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 2015-01-16 21:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.
 2015-01-17 03:00:00,-27.15889,-109.4325,0.0,0.0,270001.0,Mataveri  Isla de Pascua Ap.

@@ -16294,7 +16294,7 @@ time,latitud,longitud,Ts_Valor,CodigoNacional,nombreEstacion
 1965-06-09 21:00:00,-33.63583,-78.83305,17.8,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-06-10 06:00:00,-33.63583,-78.83305,15.4,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-06-10 12:00:00,-33.63583,-78.83305,14.0,330031.0,"Juan Fernández, Estación Meteorológica."
-1965-06-10 15:00:00,-33.63583,-78.83305,14.6,330031.0,"Juan Fernández, Estación Meteorológica."
+1965-06-10 15:00:00,-33.63583,-78.83305,15.9,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-06-10 18:00:00,-33.63583,-78.83305,18.4,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-06-10 21:00:00,-33.63583,-78.83305,17.6,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-06-11 06:00:00,-33.63583,-78.83305,17.0,330031.0,"Juan Fernández, Estación Meteorológica."
@@ -17365,7 +17365,7 @@ time,latitud,longitud,Ts_Valor,CodigoNacional,nombreEstacion
 1965-12-24 12:00:00,-33.63583,-78.83305,15.2,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-12-24 15:00:00,-33.63583,-78.83305,15.9,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-12-24 18:00:00,-33.63583,-78.83305,16.0,330031.0,"Juan Fernández, Estación Meteorológica."
-1965-12-24 21:00:00,-33.63583,-78.83305,15.1,330031.0,"Juan Fernández, Estación Meteorológica."
+1965-12-24 21:00:00,-33.63583,-78.83305,17.3,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-12-25 00:00:00,-33.63583,-78.83305,15.0,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-12-25 06:00:00,-33.63583,-78.83305,14.5,330031.0,"Juan Fernández, Estación Meteorológica."
 1965-12-25 12:00:00,-33.63583,-78.83305,15.0,330031.0,"Juan Fernández, Estación Meteorológica."
@@ -24885,7 +24885,26 @@ time,latitud,longitud,Ts_Valor,CodigoNacional,nombreEstacion
 1965-12-25 12:00:00,-34.17222,-70.77611,13.8,340045.0,Rancagua
 1965-12-25 15:00:00,-34.17222,-70.77611,17.8,340045.0,Rancagua
 1965-12-27 00:00:00,-34.17222,-70.77611,,340045.0,Rancagua
-1965-12-27 12:00:00,-34.17222,-70.77611,,340045.0,Rancagua
+1965-12-27 12:00:00,-34.17222,-70.77611,16.6,340045.0,Rancagua
+1965-12-27 15:00:00,-34.17222,-70.77611,22.0,340045.0,Rancagua
+1965-12-27 18:00:00,-34.17222,-70.77611,26.8,340045.0,Rancagua
+1965-12-28 00:00:00,-34.17222,-70.77611,25.8,340045.0,Rancagua
+1965-12-28 12:00:00,-34.17222,-70.77611,18.0,340045.0,Rancagua
+1965-12-28 15:00:00,-34.17222,-70.77611,24.6,340045.0,Rancagua
+1965-12-28 18:00:00,-34.17222,-70.77611,28.6,340045.0,Rancagua
+1965-12-29 00:00:00,-34.17222,-70.77611,24.6,340045.0,Rancagua
+1965-12-29 12:00:00,-34.17222,-70.77611,14.6,340045.0,Rancagua
+1965-12-29 15:00:00,-34.17222,-70.77611,19.4,340045.0,Rancagua
+1965-12-29 18:00:00,-34.17222,-70.77611,22.8,340045.0,Rancagua
+1965-12-30 00:00:00,-34.17222,-70.77611,21.2,340045.0,Rancagua
+1965-12-30 12:00:00,-34.17222,-70.77611,14.6,340045.0,Rancagua
+1965-12-30 15:00:00,-34.17222,-70.77611,20.7,340045.0,Rancagua
+1965-12-30 18:00:00,-34.17222,-70.77611,26.1,340045.0,Rancagua
+1965-12-31 00:00:00,-34.17222,-70.77611,25.8,340045.0,Rancagua
+1965-12-31 12:00:00,-34.17222,-70.77611,17.3,340045.0,Rancagua
+1965-12-31 15:00:00,-34.17222,-70.77611,22.6,340045.0,Rancagua
+1965-12-31 18:00:00,-34.17222,-70.77611,26.7,340045.0,Rancagua
+1966-01-01 00:00:00,-34.17222,-70.77611,25.7,340045.0,Rancagua
 1965-02-01 06:00:00,-36.58583,-72.03667,11.0,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-02-01 09:00:00,-36.58583,-72.03667,11.0,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-02-01 10:00:00,-36.58583,-72.03667,11.2,360011.0,"General Bernardo O'Higgins, Chillán Ad."
@@ -25834,8 +25853,21 @@ time,latitud,longitud,Ts_Valor,CodigoNacional,nombreEstacion
 1965-03-31 22:00:00,-36.58583,-72.03667,26.9,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-03-31 23:00:00,-36.58583,-72.03667,25.4,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-01 06:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 09:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 10:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 11:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-01 12:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 13:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 14:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 15:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 16:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 17:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-01 18:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 19:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 20:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 21:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 22:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
+1965-04-01 23:00:00,-36.58583,-72.03667,,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-04 06:00:00,-36.58583,-72.03667,8.0,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-04 09:00:00,-36.58583,-72.03667,5.0,360011.0,"General Bernardo O'Higgins, Chillán Ad."
 1965-04-04 10:00:00,-36.58583,-72.03667,4.7,360011.0,"General Bernardo O'Higgins, Chillán Ad."
